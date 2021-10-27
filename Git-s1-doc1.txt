@@ -1,0 +1,5 @@
+-global core.editor "'C:/Program Files (x86)/sublime text 3/subl.exe' -w
+
+Modificacion 1
+
+Modificacion 2
